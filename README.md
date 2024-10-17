@@ -8,3 +8,8 @@ Analytical SQL techniques are employed to extract meaningful patterns and trends
 The visualizations produced in Power BI offer an interactive dashboard experience, showcasing key performance indicators (KPIs) for players and teams 🥇, match results, and comparative analyses. Users can explore data through dynamic charts and graphs 📉, allowing for an engaging exploration of football analytics.
 
 This project serves as a valuable resource for football enthusiasts, analysts, and coaches looking to make data-driven decisions and enhance their understanding of the game 🎉
+
+Team Members:
+🥇Bahey Eldeen Mahmoud 
+🥇Islam Mohammed Ahmed
+🥇Mohammed Khaled Ahmed
